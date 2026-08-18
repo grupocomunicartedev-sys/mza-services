@@ -1,0 +1,6 @@
+{
+  "name": "Portal Profesionales Mendoza MVP",
+  "description": "Arquitectura y prototipo visual para portal de profesionales en Mendoza con integración de Mercado Pago.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
